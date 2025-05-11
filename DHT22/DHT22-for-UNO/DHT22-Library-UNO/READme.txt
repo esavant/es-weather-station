@@ -1,0 +1,1 @@
+Note: Drag the above folder into Arduino/libraries to run the DHT22

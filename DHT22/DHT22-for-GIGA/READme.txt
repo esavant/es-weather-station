@@ -1,0 +1,1 @@
+Copy both folders in the library folder to Arduino/libraries to run DHT22 with Arduino GIGA R1
